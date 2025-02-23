@@ -1,4 +1,4 @@
-package br.com.almindes.model.controllers;
+package br.com.almindes.controllers;
 
 
 import br.com.almindes.model.Greeting;
